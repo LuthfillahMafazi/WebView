@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/webProfil"
+        android:title="Profil"/>
+    <item
+        android:id="@+id/webDaftar"
+        android:title="Daftar"/>
+    <item
+        android:id="@+id/webTarget"
+        android:title="TargetProgram"/>
+
+</menu>
